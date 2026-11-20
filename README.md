@@ -7,7 +7,7 @@
 
 - 📊 **Dashboards and admin platforms:** role-based access, charts, tables, and real-time data
 - 🗺️ **Map and monitoring tools:** sensor/IoT data, maps, device management
-- 🤖 **AI-assisted products:** [chat/Q&A over your own data, streaming UI, tool calling] *(add once your AI project is live)*
+- 🤖 **AI-assisted products:** [chat/Q&A over your own data, streaming UI, tool calling] 
 - 📱 **Mobile + backend:** Android (Kotlin) and Ktor background
 
 ## How I work
@@ -29,8 +29,9 @@
 
 | Project | What it shows |
 |---|---|
-|  name |  monitoring dashboard with auth, charts, and map. Live demo: link |
-|  name |  AI assistant answering questions about dashboard data |
+|  IoT Dashboard   |  Map, charts, live sensor data |
+|  Admin Dashboard | Auth, roles, tables, charts    |
+|  AI Chat over Data | Questions and answers about your data    |
 
 > Most of my professional work is for private company projects, so it isn't public.
 > The projects above are my own showcase builds, using sample data.
