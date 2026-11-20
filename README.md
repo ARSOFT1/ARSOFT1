@@ -40,7 +40,7 @@ The projects above are my own showcase builds, using sample data.
 
 ## Let's work together
 
-I'm open to [remote roles / selected freelance projects] focused on Next.js and full-stack web development.
+I am open to remote roles and selected freelance projects focused on Next.js and full-stack web development..
 
 - 📧 [email](ar.soft1245@gmail.com)
 - 💼 [LinkedIn](https://pk.linkedin.com/in/meetahsanraza)
